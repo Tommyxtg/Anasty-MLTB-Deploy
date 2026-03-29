@@ -19,6 +19,7 @@ gunicorn
 httpx
 jinja2
 langcodes
+language-data
 lxml
 natsort
 pillow
@@ -36,4 +37,3 @@ tenacity
 uvicorn
 uvloop
 xattr
-yt-dlp[default,curl-cffi]
