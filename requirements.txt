@@ -30,6 +30,7 @@ python-magic
 pytz
 pytdbot[tdjson]
 requests
+razorpay
 speedtest-cli
 truelink
 telegraph
@@ -37,5 +38,3 @@ tenacity
 uvicorn
 uvloop
 xattr
-razorpay
-aiohttp
